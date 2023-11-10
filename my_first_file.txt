@@ -1,2 +1,3 @@
 This is my first line of code in just initialised Git folder
-This is my second line of code
+
+This is a third line of code created on branch first_br
